@@ -21,7 +21,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "key"
 
 messages=[]
 
